@@ -40,7 +40,7 @@ Apply unsupervised learning techniques to analyze arrest statistics data for ass
     or
    
    ```bash
-    python US_arrests_analysis.py
+    python project2_arrests_analysis.py
     ```
 
 ## Dependencies
